@@ -1,6 +1,16 @@
 **Supplementary Tables for**  
 *"Unraveling cooperative and competitive interactions within protein triplets in the human interactome"*
+---
 
+## 🧠 Study Hypothesis
+
+<p align="center">
+  <img src="Figure.png" width="600"/>
+</p>
+
+*Schematic representation of the study hypothesis.*
+
+---
 This study focuses on modeling protein–protein interactions within the human interactome, using hyperbolic network embeddings and machine learning to distinguish cooperative from competitive triplet configurations.
 
 ---
