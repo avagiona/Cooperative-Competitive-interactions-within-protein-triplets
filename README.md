@@ -2,7 +2,6 @@
 *"Unraveling cooperative and competitive interactions within protein triplets in the human interactome"*
 ---
 
-## 🧠 Study Hypothesis
 
 <p align="center">
   <img src="Figure.png" width="600"/>
