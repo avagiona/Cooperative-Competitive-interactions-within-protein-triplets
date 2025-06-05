@@ -15,5 +15,8 @@ This study focuses on modeling protein–protein interactions within the human i
 - **`Supplementary_Table_S6.csv`**: Filtered triplet predictions by score quantile (low-degree proteins).
 
 ---
+> 📦 **Note:** This repository uses [Git Large File Storage (LFS)](https://git-lfs.github.com/) for some supplementary files.
+> To clone the repository with large files included, install Git LFS and run:
+> `git lfs install && git clone https://github.com/avagiona/Cooperative-Competitive-interactions-within-protein-triplets.git`
 
 
