@@ -19,8 +19,8 @@ This study focuses on modeling protein–protein interactions within the human i
 - **`Supplementary_Table_S1.csv`**: Node-level features of proteins in the human protein interaction network.
 - **`Supplementary_Table_S2.csv`**: Edge-level features between protein pairs in the human protein interaction network.
 - **`Supplementary_Table_S3.csv`**: Structurally supported triplet annotations from Interactome3D.
-- **`Supplementary_Table_S4.csv`**: Feature matrix for triplet classification.
-- **`Supplementary_Table_S5.csv`**: Predicted cooperative or competitive protein triplet interactions with model scores.
+- **`Supplementary_Table_S4.zip`**: Feature matrix for triplet classification.
+- **`Supplementary_Table_S5.zip`**: Predicted cooperative or competitive protein triplet interactions with model scores.
 - **`Supplementary_Table_S6.csv`**: Filtered triplet predictions by score quantile (low-degree proteins).
 
 ---
