@@ -16,8 +16,9 @@ This study focuses on modeling protein–protein interactions within the human i
 
 ## 📁 Contents
 
-- **`Supplementary_Table_S1.csv`**: Node-level features of proteins in the human protein interaction network.
+- **`Supplementary_Table_S1.csv`**: Nodes of the hPIN. Columns indicate protein identifiers (UniProtKB), hyperbolic coordinates (r, theta), centrality measures (Degree Centrality—DC, Closeness Centrality—CC, Betweenness Centrality—BC, and Eigenvector Centrality—EC), intrinsic disorder region presence (idr; yes=1, no=0) and subcellular localization (nucleus, cytoplasm, endomembrane, multi-localized proteins).
 - **`Supplementary_Table_S2.csv`**: Edge-level features between protein pairs in the human protein interaction network.
+- 
 - **`Supplementary_Table_S3.csv`**: Structurally supported triplet annotations from Interactome3D.
 - **`Supplementary_Table_S4.zip`**: Feature matrix for triplet classification.
 - **`Supplementary_Table_S5.zip`**: Predicted cooperative or competitive protein triplet interactions with model scores.
